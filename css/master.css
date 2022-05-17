@@ -110,8 +110,8 @@ body{
         background-color: #e0e8ff;
     }
     .parent{
-        width: 350px;
-        height: 600px;
+        width: 330px;
+        height: 580px;
         background-color: white;
         display: flex;
         flex-direction: column;
@@ -124,8 +124,8 @@ body{
         padding-bottom: 20px;
     }
     .parent > img:nth-of-type(1){
-        width: 350px;
-        height: 200px;
+        width: 330px;
+        height: 180px;
         border-radius: 20px 20px 0px 0px;
     }
     .parent > h1:nth-of-type(1){
